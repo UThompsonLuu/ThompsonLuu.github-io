@@ -1,34 +1,21 @@
-Read Only by HTML5 UP
+# KNES381 Final Project
+
+This repository contains my website, which showcases all that I've done over the KNES381 Semester! I've learned a ton on this project, and know that these skills will carry throughout my life.
+
+## Installation
+
+For those who have not done this before, you can directly download my website by navigating to the main page, clicking the "Code" drop-down menu, and selecting download ZIP.
+
+## Usage
+
+To view this project, I have deployed my website using GitHub Pages. The link to my page can be found here: https://uthompsonluu.github.io/ThompsonLuu.github-io/
+
+## Credits
+
+Template: Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+## Contact
 
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+To contact for further information, you can send me an email at thompson.luu@ucalgary.ca.
